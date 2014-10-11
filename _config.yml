@@ -1,0 +1,13 @@
+safe: true
+lsi: false
+pygments: true
+name: Notes
+url: http://blog.matthias-larisch.de
+paginate: 10
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks
